@@ -1,0 +1,11 @@
+# -*- Coding: utf-8 -*-
+
+import math
+
+list = []
+
+apple, piece = list[map(int,input().split())]
+
+print(apple)
+print(piece)
+
