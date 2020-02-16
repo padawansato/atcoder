@@ -11,6 +11,7 @@ for key,val in c.items():
     if val == max:
        ans.append(key)
 
+ans.sort()
 
 for i in ans:
     print(i)
