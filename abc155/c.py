@@ -1,6 +1,5 @@
 import collections as col
 
-
 n=int(input())
 s=[input() for i in range(n)]
 c = col.Counter(s)
