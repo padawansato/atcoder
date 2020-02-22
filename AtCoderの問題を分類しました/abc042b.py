@@ -1,0 +1,5 @@
+n, l = map(int,input().split())
+lst = sorted(list(input() for i in range(n)))
+lst = "".join(lst)
+# print(n,l,lst)
+print(lst)
